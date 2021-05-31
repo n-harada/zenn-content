@@ -71,7 +71,7 @@ published: false
 
 **脳内メモリの消費量 = コードを理解するのに必要な情報量(コードのハイコンテキストさ) - コードについての予備知識**
 
-![](https://storage.googleapis.com/zenn-user-upload/a2afa2424bbceb12b434b8c8.png)
+![](https://storage.googleapis.com/zenn-user-upload/7facb065a6d7d39118009f52.png)
 
 ## 「コードを理解するのに必要な情報」とは
 
